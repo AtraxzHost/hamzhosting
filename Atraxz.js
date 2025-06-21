@@ -25,47 +25,47 @@ function _0x294c(_0x278a86, _0x1f771c) {
 const products = [{
   'id': 0x1,
   'name': "Nokos Indo",
-  'description': "Nokos Indo",
-  'price': '5.000
+  'description': "WhatsApp",
+  'price': 0xbb8,
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
 }, {
   'id': 0x2,
-  'name': "Nokos Philipina",
+  'name': "Reseller Panel Private",
   'description': 'WhatsApp',
   'price': 0x1388,
-  'image': "https://files.catbox.moe/qvwakw.jpg",
+  'image': "https://files.catbox.moe/qrzy3h.jpg",
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
 }, {
   'id': 0x3,
-  'name': "Nokos Indo",
-  'description': "WhatsApp",
+  'name': "Jasa Rename Script",
+  'description': "Script",
   'price': 0xfa0,
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
 }, {
   'id': 0x4,
-  'name': 'Jasbug',
-  'description': "1x/Nomor",
+  'name': 'Mursun',
+  'description': "Suntik Sosmed",
   'price': 0x3e8,
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
   'checkoutPage': 'Atraxz.html'
 }, {
   'id': 0x5,
-  'name': "Jasa Rename Script Bot",
-  'description': "Free Req",
+  'name': "Murrename Script",
+  'description': "WhatsApp",
   'price': 0x2710,
   'image': "https://files.catbox.moe/qvwakw.jpg",
   'badge': "Terbaru",
   'checkoutPage': 'Atraxz.html'
 }, {
   'id': 0x6,
-  'name': "Jasa Buat Logo",
-  'description': "Free Req Foto",
+  'name': "Jasa Buat Script",
+  'description': "Free Req",
   'price': 0x3e8,
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
