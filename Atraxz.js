@@ -35,7 +35,7 @@ const products = [{
   'name': "Reseller Panel Private",
   'description': 'WhatsApp',
   'price': 0x1388,
-  'image': "https://files.catbox.moe/qrzy3h.jpg",
+  'image': "https://files.catbox.moe/qvwakw.jpg",
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
 }, {
