@@ -34,7 +34,7 @@ const products = [{
   'id': 0x2,
   'name': "Reseller Panel Private",
   'description': 'WhatsApp',
-  'price': 0x1388,
+  'price': '20.000',
   'image': "https://files.catbox.moe/qvwakw.jpg",
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
@@ -42,7 +42,7 @@ const products = [{
   'id': 0x3,
   'name': "Jasa Rename Script",
   'description': "Script",
-  'price': 0xfa0,
+  'price': '15.000',
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
@@ -50,7 +50,7 @@ const products = [{
   'id': 0x4,
   'name': 'Mursun',
   'description': "Suntik Sosmed",
-  'price': 0x3e8,
+  'price': '5.000',
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
   'checkoutPage': 'Atraxz.html'
@@ -58,7 +58,7 @@ const products = [{
   'id': 0x5,
   'name': "Murrename Script",
   'description': "WhatsApp",
-  'price': 0x2710,
+  'price': '20.000',
   'image': "https://files.catbox.moe/qvwakw.jpg",
   'badge': "Terbaru",
   'checkoutPage': 'Atraxz.html'
@@ -66,7 +66,7 @@ const products = [{
   'id': 0x6,
   'name': "Jasa Buat Script",
   'description': "Free Req",
-  'price': 0x3e8,
+  'price': '30.000',
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
