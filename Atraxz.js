@@ -74,7 +74,7 @@ const products = [{
   'id': 0x7,
   'name': "Panel Pterodactyl",
   'description': "1-Unli",
-  'price': 0x2710,
+  'price': '1.000-11.000',
   'image': "https://files.catbox.moe/qvwakw.jpg",
   'badge': "Limited Edition",
   'checkoutPage': "Atraxzz.html"
