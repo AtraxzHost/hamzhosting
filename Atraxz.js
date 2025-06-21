@@ -26,7 +26,7 @@ const products = [{
   'id': 0x1,
   'name': "Nokos Indo",
   'description': "WhatsApp",
-  'price': 0xbb8,
+  'price': '5.000',
   'image': 'https://files.catbox.moe/qvwakw.jpg',
   'badge': "Terbaru",
   'checkoutPage': "Atraxz.html"
